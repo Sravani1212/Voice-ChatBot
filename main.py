@@ -13,7 +13,7 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "credentials/google-cloud-credent
 speech_client = speech.SpeechClient()
 
 # Set your OpenAI API key here
-openai.api_key = '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'
+openai.api_key = ''
 
 
 # Audio recording parameters
